@@ -5,4 +5,4 @@ are present in the repository. A demo video has also been added. Before running 
 file from the following link
 https://youtu.be/wqctLW0Hb_0
 
-Rename the video as traffic.mkv
+Rename the video as traffic.mkv. To stop the program press q.
